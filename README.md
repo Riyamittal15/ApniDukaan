@@ -2,11 +2,13 @@
 <h1>Screenshots:</h1>
 
 <p>Landing page</p>
-[Screenshot (2023)](https://user-images.githubusercontent.com/63870023/160665170-b01315f2-c317-40e2-b3c1-dc04aa188f2e.png)
-[Screenshot (2024)](https://user-images.githubusercontent.com/63870023/160665216-439a3530-0d4a-4070-9528-00f825bead67.png)
+![Screenshot (2023)](https://user-images.githubusercontent.com/63870023/160665741-e1c40115-2e7f-42d7-a435-ad568f1ed6f4.png)
+![Screenshot (2024)](https://user-images.githubusercontent.com/63870023/160665764-8f5d5bf4-7f88-4214-bb7a-f546c9d3aa28.png)
+
 <p>Onclicking any item</p>
-[Screenshot (2025)](https://user-images.githubusercontent.com/63870023/160665315-50e4ece9-96f6-4ff7-b883-12f2f7bbc756.png)
-[Screenshot (2026)](https://user-images.githubusercontent.com/63870023/160665322-53bd6898-7309-4d87-a485-060095a75d41.png)
+![Screenshot (2025)](https://user-images.githubusercontent.com/63870023/160665795-6ce7f183-d264-4782-a010-5c4af6ab1139.png)
+![Screenshot (2026)](https://user-images.githubusercontent.com/63870023/160665811-8606a4dc-545c-4018-b5d7-eafc633c14c8.png)
+
 <p>Loading element</p>
-[Screenshot (2027)](https://user-images.githubusercontent.com/63870023/160665386-b11b59b4-4a2f-4e3c-8731-2c6411480eca.png)
-[Screenshot (2028)](https://user-images.githubusercontent.com/63870023/160665390-3b1237f8-c520-479a-9aab-5f07297393fc.png)
+![Screenshot (2027)](https://user-images.githubusercontent.com/63870023/160665844-64fafe31-baf2-4a06-9d52-3a08e7974dd9.png)
+![Screenshot (2028)](https://user-images.githubusercontent.com/63870023/160665851-2dee7c13-708e-405e-8ae7-1b03da49af9b.png)
